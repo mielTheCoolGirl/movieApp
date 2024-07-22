@@ -1,0 +1,4 @@
+flet
+beautifulSoup4
+requests
+Pillow
